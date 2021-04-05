@@ -1,2 +1,4 @@
 This is an analysis on different cereal brands and creating different clusters using hierarchical and K-Means clustering techniques.
 Download the csv file for the data and the R file analyses the data
+
+The explanation PDF provides an overview of the actionable results from the analysis as well as a deep dive into my methodology.
