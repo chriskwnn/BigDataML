@@ -1,0 +1,3 @@
+This project was to optimize discount pricing for an e-commerce company. The data is provided in order_data.csv and is analyzed in R first then excel.
+The R code is in Pricing Project.R, this R code analyzes the demand curve of the most popular item sold on the e-commerce website. 
+This information is then transferred to Excel in which the Solver tool finds the optimized pricing points to maximize revenue. Within Excel, it is assumed that there are three stages to a product lifecycle, stage 1 is full price sale, stage 2 is discounted price sale, and stage 3 is deeper discounted price sale. These three stages allow for revenue maximization since you capture more of the market that is willing to purchase at the three different price points for the same product.
