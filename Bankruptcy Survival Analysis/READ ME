@@ -1,3 +1,3 @@
-This analysis uses survival analysis via exponential, weibull, and cox-proportional hazards. The data is in the csv file and the R file analyses the data.
+This is a bankruptcy survival analysis which compares exponential, weibull, and cox-proportional hazard models. The data is in the csv file and the R file analyses the data.
 
 The explanation PDF provides an overview of the actionable results from the analysis as well as a deep dive into my methodology.
