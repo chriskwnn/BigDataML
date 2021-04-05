@@ -1,0 +1,1 @@
+This analysis uses survival analysis via exponential and weibull. The data is in the csv file and the R file analyses the data
