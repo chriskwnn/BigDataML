@@ -1,2 +1,2 @@
-# BigDataMLCourse
-Some of my R code from my big data course that involves different machine learning algorithms
+# Machine Learning
+Some of my R code that involves exploring different machine learning algorithms
